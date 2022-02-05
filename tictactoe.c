@@ -98,7 +98,7 @@ int main()
 
         if (count > 2)
         {
-            printf("\nPlayer %c's Turn: (Pick Your Choice): ", playerName, count);
+            printf("\nPlayer %c's Turn: (Pick Your Choice): ", playerName);
         }
         else
         {
